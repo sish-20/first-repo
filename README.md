@@ -1,1 +1,1 @@
-Hello Everyone,This is my Firsdt Repository <br> I'm Siri Shetty K commonly know as Shetty
+Hello Everyone,This is my First Repository <br> I'm Siri Shetty K commonly know as Shetty
